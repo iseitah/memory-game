@@ -6,7 +6,7 @@ The game board consists of sixteen "cards" arranged in a grid. The deck is made 
 ## Instructions
 
 # How to play the game?
-### [Click here](https://iseitah.github.io/memory-game/) TO PLAY.
+### TO PLAY [Click here](https://iseitah.github.io/memory-game/).
 
 - To start the game flips one card over to reveal its underlying symbol.
 - Try turns over a second card, trying to find the corresponding card with the same symbol.
